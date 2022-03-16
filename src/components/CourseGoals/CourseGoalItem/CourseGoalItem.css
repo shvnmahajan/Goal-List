@@ -6,3 +6,7 @@
   padding: 1rem 2rem;
   cursor: pointer;
 }
+
+.goal-item:hover{
+  background: #88209c;
+}
